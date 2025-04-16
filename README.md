@@ -18,3 +18,5 @@ Este projeto tem como objetivo criar uma plataforma web que facilita o envio de 
 
 ### Loading Page:
 
+https://ukaduu.github.io/ReclameAquiCTBJ/
+
